@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "62ff1c9c095101aef5811f87"
+  },
+  "hospitalID": "H001",
+  "DocID": "PSY101",
+  "name": "Dr. Ravi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1cc3095101aef5811f89"
+  },
+  "hospitalID": "H001",
+  "DocID": "PSY102",
+  "name": "Dr. Will",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1cd2095101aef5811f8b"
+  },
+  "hospitalID": "H001",
+  "DocID": "PSY103",
+  "name": "Dr. Nitin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1cec095101aef5811f8d"
+  },
+  "hospitalID": "H001",
+  "DocID": "PSY104",
+  "name": "Dr. Tom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1cfc095101aef5811f8f"
+  },
+  "hospitalID": "H001",
+  "DocID": "PSY105",
+  "name": "Dr. Derik",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1d24095101aef5811f91"
+  },
+  "hospitalID": "H002",
+  "DocID": "PSY201",
+  "name": "Dr. Vivek",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1d2e095101aef5811f93"
+  },
+  "hospitalID": "H002",
+  "DocID": "PSY202",
+  "name": "Dr. Kishore",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1d71095101aef5811f95"
+  },
+  "hospitalID": "H002",
+  "DocID": "PSY203",
+  "name": "Dr. Mathew",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1d79095101aef5811f97"
+  },
+  "hospitalID": "H002",
+  "DocID": "PSY204",
+  "name": "Dr. Rob",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1d87095101aef5811f99"
+  },
+  "hospitalID": "H002",
+  "DocID": "PSY205",
+  "name": "Dr. Yoda",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1d9b095101aef5811f9b"
+  },
+  "hospitalID": "H003",
+  "DocID": "PSY301",
+  "name": "Dr. Eren",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1da5095101aef5811f9d"
+  },
+  "hospitalID": "H003",
+  "DocID": "PSY302",
+  "name": "Dr. Mikasa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1dae095101aef5811f9f"
+  },
+  "hospitalID": "H003",
+  "DocID": "PSY303",
+  "name": "Dr. Tsunade",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1dc7095101aef5811fa1"
+  },
+  "hospitalID": "H003",
+  "DocID": "PSY304",
+  "name": "Dr. Obito",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1dd0095101aef5811fa3"
+  },
+  "hospitalID": "H003",
+  "DocID": "PSY305",
+  "name": "Dr. Hinata",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1dea095101aef5811fa5"
+  },
+  "hospitalID": "H004",
+  "DocID": "PSY401",
+  "name": "Dr. Om",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1df2095101aef5811fa7"
+  },
+  "hospitalID": "H004",
+  "DocID": "PSY402",
+  "name": "Dr. Shiv",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1e24095101aef5811fa9"
+  },
+  "hospitalID": "H004",
+  "DocID": "PSY403",
+  "name": "Dr. Shreya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1e2d095101aef5811fab"
+  },
+  "hospitalID": "H004",
+  "DocID": "PSY404",
+  "name": "Dr. Nikita",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1e34095101aef5811fad"
+  },
+  "hospitalID": "H004",
+  "DocID": "PSY405",
+  "name": "Dr. Parul",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1e4d095101aef5811faf"
+  },
+  "hospitalID": "H005",
+  "DocID": "PSY501",
+  "name": "Dr. Tony",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1e61095101aef5811fb1"
+  },
+  "hospitalID": "H005",
+  "DocID": "PSY502",
+  "name": "Dr. Greg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1e6c095101aef5811fb3"
+  },
+  "hospitalID": "H005",
+  "DocID": "PSY503",
+  "name": "Dr. Flint",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1e7b095101aef5811fb5"
+  },
+  "hospitalID": "H005",
+  "DocID": "PSY504",
+  "name": "Dr. Lucifer",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff1e83095101aef5811fb7"
+  },
+  "hospitalID": "H005",
+  "DocID": "PSY505",
+  "name": "Dr. Jake",
+  "__v": 0
+}]

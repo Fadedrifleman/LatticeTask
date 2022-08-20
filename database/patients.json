@@ -1,0 +1,495 @@
+[{
+  "_id": {
+    "$oid": "62ff20608b473d4ce51f5dfe"
+  },
+  "name": "A. Santiago",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY101",
+  "hospitalID": "H001",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff20888b473d4ce51f5e00"
+  },
+  "name": "Casy",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY101",
+  "hospitalID": "H001",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff20c78b473d4ce51f5e02"
+  },
+  "name": "Dudy",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY102",
+  "hospitalID": "H001",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff20d38b473d4ce51f5e04"
+  },
+  "name": "Danny",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY103",
+  "hospitalID": "H001",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff20da8b473d4ce51f5e06"
+  },
+  "name": "David",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY104",
+  "hospitalID": "H001",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff20e08b473d4ce51f5e08"
+  },
+  "name": "Peter",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY104",
+  "hospitalID": "H001",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff20e98b473d4ce51f5e0a"
+  },
+  "name": "Chris",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY105",
+  "hospitalID": "H001",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21008b473d4ce51f5e0c"
+  },
+  "name": "Crab",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY201",
+  "hospitalID": "H002",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff211c8b473d4ce51f5e0e"
+  },
+  "name": "Sheldon",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY201",
+  "hospitalID": "H002",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21268b473d4ce51f5e10"
+  },
+  "name": "S. Raj",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY202",
+  "hospitalID": "H002",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff212d8b473d4ce51f5e12"
+  },
+  "name": "Rajesh",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY203",
+  "hospitalID": "H002",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21358b473d4ce51f5e14"
+  },
+  "name": "Ramesh",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY204",
+  "hospitalID": "H002",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff213e8b473d4ce51f5e16"
+  },
+  "name": "Rohit",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY205",
+  "hospitalID": "H002",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21498b473d4ce51f5e18"
+  },
+  "name": "Rimmi",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY301",
+  "hospitalID": "H003",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21558b473d4ce51f5e1a"
+  },
+  "name": "Tom",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY301",
+  "hospitalID": "H003",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff215b8b473d4ce51f5e1c"
+  },
+  "name": "Jerry",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY301",
+  "hospitalID": "H003",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21668b473d4ce51f5e1e"
+  },
+  "name": "Will",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY302",
+  "hospitalID": "H003",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21758b473d4ce51f5e20"
+  },
+  "name": "Jim",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY303",
+  "hospitalID": "H003",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff217d8b473d4ce51f5e22"
+  },
+  "name": "Pam",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY304",
+  "hospitalID": "H003",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21a18b473d4ce51f5e24"
+  },
+  "name": "Pamila",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY304",
+  "hospitalID": "H003",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21ad8b473d4ce51f5e26"
+  },
+  "name": "Larry",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY304",
+  "hospitalID": "H003",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21b98b473d4ce51f5e28"
+  },
+  "name": "Orange",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY305",
+  "hospitalID": "H003",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21c98b473d4ce51f5e2a"
+  },
+  "name": "Orry",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY401",
+  "hospitalID": "H004",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21cf8b473d4ce51f5e2c"
+  },
+  "name": "Happy",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY401",
+  "hospitalID": "H004",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21d68b473d4ce51f5e2e"
+  },
+  "name": "Ben",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY401",
+  "hospitalID": "H004",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21da8b473d4ce51f5e30"
+  },
+  "name": "Benjermin",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY401",
+  "hospitalID": "H004",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21e28b473d4ce51f5e32"
+  },
+  "name": "James",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY402",
+  "hospitalID": "H004",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21e98b473d4ce51f5e34"
+  },
+  "name": "Riya",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY402",
+  "hospitalID": "H004",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21f08b473d4ce51f5e36"
+  },
+  "name": "Martin",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY403",
+  "hospitalID": "H004",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21f88b473d4ce51f5e38"
+  },
+  "name": "Akshat",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY404",
+  "hospitalID": "H004",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff21ff8b473d4ce51f5e3a"
+  },
+  "name": "Akash",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY405",
+  "hospitalID": "H004",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff22068b473d4ce51f5e3c"
+  },
+  "name": "Ravish",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY405",
+  "hospitalID": "H004",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff22128b473d4ce51f5e3e"
+  },
+  "name": "Ravish Kumar",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY501",
+  "hospitalID": "H005",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff221b8b473d4ce51f5e40"
+  },
+  "name": "Hitesh",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY502",
+  "hospitalID": "H005",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff22218b473d4ce51f5e42"
+  },
+  "name": "Himesh",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY503",
+  "hospitalID": "H005",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff222b8b473d4ce51f5e44"
+  },
+  "name": "Hira",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY504",
+  "hospitalID": "H005",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff22338b473d4ce51f5e46"
+  },
+  "name": "Hema",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY505",
+  "hospitalID": "H005",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff8b2bfa756f3d32a1ed0b"
+  },
+  "name": "John",
+  "address": "13th Street, Mary Apratments, LA",
+  "email": "foo@bar.com",
+  "phoneNumber": "+917784558458",
+  "password": "FooBar@123",
+  "img": "img.com/url",
+  "docID": "PSY505",
+  "hospitalID": "H005",
+  "__v": 0
+}]
