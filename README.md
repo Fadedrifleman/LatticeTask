@@ -54,7 +54,7 @@ API endpoints details
 
 //----------------------------------------------------------------------------------
 
-[Postman Collection Link](https://www.postman.com/cloudy-moon-408565/workspace/lattice-api)
+[Postman Collection Link](https://www.postman.com/cloudy-moon-408565/workspace/lattice-api) : https://www.postman.com/cloudy-moon-408565/workspace/lattice-api
     
     
  
